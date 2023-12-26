@@ -1,0 +1,3 @@
+word = 'banana'
+
+print(sorted((word.lower()).replace(' ', '')))
